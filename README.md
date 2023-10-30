@@ -1,5 +1,3 @@
-# Go-Movies-Crud-Go
-
 # Go Movie API
 
 ## Description
